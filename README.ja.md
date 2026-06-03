@@ -4,14 +4,11 @@
 
 <h1 align="center">local-html-editor</h1>
 
-<p align="center">A Notion-style Chrome extension for visually editing local HTML files.</p>
+<p align="center">プロダクト、マーケティング、ブランド担当者が、コードを書かずに AI 生成のローカル HTML を視覚的に編集できます。</p>
 
 <p align="center">
-  <img alt="Designed by JinyuDu" src="https://img.shields.io/badge/Designed%20by-JinyuDu-31302E?style=flat-square">
   <img alt="Chrome Extension" src="https://img.shields.io/badge/Chrome-Extension-0075DE?style=flat-square">
 </p>
-
-<p align="center"><strong>Personal mark:</strong> Designed by <strong>JinyuDu</strong></p>
 
 <p align="center">
   <a href="README.md">English</a> ·
@@ -31,7 +28,7 @@ AI が生成した単一 HTML、ランディングページ、ニュースレタ
 ## 主な機能
 
 - `file://` ローカル HTML のビジュアル編集。
-- Notion 風のアイコンツールバーとホバーツールチップ。
+- アイコンツールバーとホバーツールチップ。
 - 4-128 のフォントサイズ、行間、下線、ハイライト、色、配置、リンク。
 - 画像の挿入、置換、リサイズ、クリップボード貼り付け。
 - 濃淡付きカラースウォッチと RGB ピッカー。
@@ -40,16 +37,16 @@ AI が生成した単一 HTML、ランディングページ、ニュースレタ
 - ブラウザ言語に応じた多言語 UI。
 - ブラウザテーマに応じたライト/ダーク表示。
 
+## Download
+
+[Download the extension ZIP](releases/local-html-editor-extension.zip).
+
 ## Install
 
-1. Open `chrome://extensions`.
-2. Enable **Developer mode**.
-3. Click **Load unpacked**.
-4. Select this project folder.
-5. Enable **Allow access to file URLs**.
-
-## Release ZIP
-
-```text
-dist/local-html-editor-extension.zip
-```
+1. Download the extension ZIP.
+2. Unzip the downloaded file.
+3. Open `chrome://extensions`.
+4. Enable **Developer mode**.
+5. Click **Load unpacked**.
+6. Select the unzipped extension folder.
+7. Enable **Allow access to file URLs**.

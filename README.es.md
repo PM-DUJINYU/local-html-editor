@@ -4,14 +4,11 @@
 
 <h1 align="center">local-html-editor</h1>
 
-<p align="center">A Notion-style Chrome extension for visually editing local HTML files.</p>
+<p align="center">Para equipos de producto, marketing y marca: edita HTML local generado por IA sin tocar código.</p>
 
 <p align="center">
-  <img alt="Designed by JinyuDu" src="https://img.shields.io/badge/Designed%20by-JinyuDu-31302E?style=flat-square">
   <img alt="Chrome Extension" src="https://img.shields.io/badge/Chrome-Extension-0075DE?style=flat-square">
 </p>
-
-<p align="center"><strong>Personal mark:</strong> Designed by <strong>JinyuDu</strong></p>
 
 <p align="center">
   <a href="README.md">English</a> ·
@@ -31,7 +28,7 @@ Es útil para HTML generado por IA, landing pages, newsletters, currículums, pr
 ## Funciones principales
 
 - Edición visual de HTML local `file://`.
-- Barra de iconos estilo Notion con tooltips.
+- Barra de iconos con tooltips.
 - Tamaño de fuente de 4 a 128, interlineado, subrayado, resaltado, color, alineación y enlaces.
 - Insertar, reemplazar, redimensionar y pegar imágenes desde el portapapeles.
 - Paletas de color y selector RGB.
@@ -40,16 +37,16 @@ Es útil para HTML generado por IA, landing pages, newsletters, currículums, pr
 - UI multilingüe según el idioma del navegador.
 - Modo claro/oscuro según el tema del navegador.
 
+## Download
+
+[Download the extension ZIP](releases/local-html-editor-extension.zip).
+
 ## Install
 
-1. Open `chrome://extensions`.
-2. Enable **Developer mode**.
-3. Click **Load unpacked**.
-4. Select this project folder.
-5. Enable **Allow access to file URLs**.
-
-## Release ZIP
-
-```text
-dist/local-html-editor-extension.zip
-```
+1. Download the extension ZIP.
+2. Unzip the downloaded file.
+3. Open `chrome://extensions`.
+4. Enable **Developer mode**.
+5. Click **Load unpacked**.
+6. Select the unzipped extension folder.
+7. Enable **Allow access to file URLs**.
