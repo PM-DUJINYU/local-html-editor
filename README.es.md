@@ -17,7 +17,7 @@
   <a href="README.ko.md">한국어</a>
 </p>
 
-![local-html-editor visual editing demo](assets/local-html-editor-demo.gif)
+![local-html-editor visual editing demo](assets/local-html-editor-demo-18s.gif)
 
 ---
 

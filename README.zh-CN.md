@@ -18,7 +18,7 @@
   <a href="README.es.md">Español</a>
 </p>
 
-![local-html-editor 可视化编辑演示](assets/local-html-editor-demo.gif)
+![local-html-editor 可视化编辑演示](assets/local-html-editor-demo-18s.gif)
 
 ---
 
