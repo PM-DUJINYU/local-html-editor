@@ -21,6 +21,10 @@
   <a href="README.es.md">Español</a>
 </p>
 
+<p align="center">
+  <img src="assets/local-html-editor-demo.gif" width="960" alt="local-html-editor visual editing demo">
+</p>
+
 ---
 
 ## What It Does

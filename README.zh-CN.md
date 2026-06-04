@@ -18,6 +18,10 @@
   <a href="README.es.md">Español</a>
 </p>
 
+<p align="center">
+  <img src="assets/local-html-editor-demo.gif" width="960" alt="local-html-editor 可视化编辑演示">
+</p>
+
 ---
 
 ## 它解决什么问题
